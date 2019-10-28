@@ -9,7 +9,7 @@
 Summary:	Fast, pure-Python full text indexing, search, and spell checking library
 Name:		python-%{module}
 Version:	2.7.4
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/W/Whoosh/Whoosh-%{version}.tar.gz
