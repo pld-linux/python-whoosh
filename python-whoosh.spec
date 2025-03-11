@@ -10,7 +10,7 @@ Summary:	Fast, pure-Python full text indexing, search, and spell checking librar
 Summary(pl.UTF-8):	Szybka, czysto pythonowa biblioteka do pełnotekstowego indeksowania, wyszukiwania i sprawdzania pisowni
 Name:		python-%{module}
 Version:	2.7.4
-Release:	8
+Release:	9
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/Whoosh/
